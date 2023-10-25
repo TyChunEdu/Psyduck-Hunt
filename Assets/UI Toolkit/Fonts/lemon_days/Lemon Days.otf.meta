@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 07d8338b3792b4746a20a684ed08ffb2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Lemon Days
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6514b165a035a194497e7bd10592c6ad, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
